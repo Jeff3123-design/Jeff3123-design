@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jeff3123-design
 - 👀 I’m interested in . programming and hacking..
-- 🌱 I’m currently learning ...c programming at kisii university 
+- 🌱 I’m currently learning .. software engineering at kisii university 
 - 💞️ I’m looking to collaborate on ... with great people 
 - 📫 How to reach me ... through whatsup 0718544433
 
