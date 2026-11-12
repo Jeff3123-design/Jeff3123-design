@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jeff3123-design
-- 👀 I’m interested in . programming and hacking..
-- 🌱 I’m currently learning .. software engineering at kisii university 
-- 💞️ I’m looking to collaborate on ... with great people 
+- 👋 Hi, I’m jefferson mghendi
+- 👀 I’m interested in .web programming, machine learning and Ethical hacking..
+- 🌱 I’m a graduate of Kisii university with a degree in software engineering 
+- 💞️ I’m looking to collaborate on projects  with great people and teams on any tech related project
 - 📫 How to reach me ... through whatsup 0718544433
 
 <!---
